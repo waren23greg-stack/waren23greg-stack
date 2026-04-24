@@ -61,8 +61,8 @@ warren = {
 
 - Multi-agent swarm field intelligence
 - Neurosymbolic ethics governance layer
-- Real-time drone + robotics coordination
-- Verifiable conservation on-chain
+-  Architecture designed · research phase
+- Seeking grants and research partnerships
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ warren = {
 ## 📌 Right Now
 
 - 🔭 Wiring MISTCODER into CI/CD — auto-block unsafe pushes
-- 🌱 EDEN Phase V — multi-agent field deployment
+- 🌱 EDEN-BioGuard — research & architecture phase, seeking collaborators
 - 🤝 Open to research collabs and grant partnerships
 - 📍 Nairobi — building for Africa and the planet
 
