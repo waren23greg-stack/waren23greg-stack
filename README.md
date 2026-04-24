@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2D4&center=true&vCenter=true&width=600&lines=AI+Agent+Architect;Adversarial+Security+Engineer;Autonomous+Systems+Builder;Building+tools+that+didn't+exist)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greg-waren-9ba1953b1)
-[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/gregewaren)
+[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)]([https://www.datacamp.com/portfolio/waren23greg))
 ![Profile Views](https://komarev.com/ghpvc/?username=waren23greg-stack&style=for-the-badge&color=00c2d4)
 
 </div>
