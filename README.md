@@ -1,102 +1,115 @@
 <div align="center">
 
-# Warren Greg
-### Builder. Systems Thinker. AI Engineer.
-`Nairobi, Kenya` · `BSIT @ Cooperative University of Kenya`
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c2d4,100:00ffd1&height=200&section=header&text=Warren%20Greg&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Systems%20Thinker&descAlignY=58&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2D4&center=true&vCenter=true&width=600&lines=AI+Agent+Architect;Adversarial+Security+Engineer;Autonomous+Systems+Builder;Building+tools+that+didn't+exist)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greg-waren-9ba1953b1)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/portfolio/gregewaren)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waren23greg-stack)
+![Profile Views](https://komarev.com/ghpvc/?username=waren23greg-stack&style=for-the-badge&color=00c2d4)
 
 </div>
 
 ---
 
-## ⚡ What I Build
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=waren23greg-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00c2d4&icon_color=00ffd1&text_color=c9d1d9" />
 
-I don't wait for tools to exist. I build them.
+### ⚡ I build things that didn't exist
 
-- 🧠 **AI agents** that reason, attack, and verify — not just predict
-- 🔐 **Cybersecurity systems** that think like adversaries
-- 🌍 **Autonomous ecosystem intelligence** for planetary-scale problems
-- 📊 **Data pipelines** that turn raw noise into decisions
+```python
+warren = {
+  "location"  : "Nairobi, Kenya 🌍",
+  "education" : "BSIT @ CUK",
+  "focus"     : ["AI Agents", "Cybersecurity",
+                 "Autonomous Systems", "Data"],
+  "currently" : "Building EDEN Phase V",
+  "mindset"   : "Ship. Learn. Repeat."
+}
+```
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Flagship Projects
 
-### 🔴 [MISTCODER](https://github.com/waren23greg-stack/EDEN-BioGuard)
-> AI-powered adversarial code analysis engine
+<table>
+<tr>
+<td width="50%">
 
-- 3 autonomous agents: **ORACLE** (detective) · **PHANTOM** (attacker) · **COVENANT** (judge)
-- Scans 65 vulnerabilities · maps 14 kill chains · in **38 milliseconds**
-- Cryptographic audit trail — tamper-proof, court-admissible
-- Zero external dependencies
-
-### 🌿 [EDEN-BioGuard](https://github.com/waren23greg-stack/EDEN-BioGuard)
-> Autonomous AI system for planetary-scale biodiversity restoration
-
-- Multi-agent swarm intelligence + real-time field robotics
-- Mamba SSM architecture for ecological time-series
-- Neurosymbolic governance — hard-coded ethics layer
-- Smart contract deployment for verifiable conservation actions
-
-### 📦 [Supply Chain Intelligence](https://github.com/waren23greg-stack/supply-chain-intelligence)
-> End-to-end analytics pipeline — SQL · Python · Power BI
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
+### 🔴 MISTCODER
+**Adversarial AI Code Analysis Engine**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![AST](https://img.shields.io/badge/AST-FF4500?style=flat-square)
+![Graph](https://img.shields.io/badge/Kill_Chain_Graph-8A2BE2?style=flat-square)
 
-**AI / Data**
+- **ORACLE** · **PHANTOM** · **COVENANT** agents
+- 65 vulns · 14 kill chains · **38ms**
+- Cryptographic tamper-proof audit trail
+- Zero external dependencies
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+</td>
+<td width="50%">
 
-**Security & Systems**
+### 🌿 EDEN-BioGuard
+**Planetary-Scale Ecosystem AI**
 
-![AST](https://img.shields.io/badge/AST_Parsing-FF4500?style=flat-square&logoColor=white)
-![Graph Analysis](https://img.shields.io/badge/Graph_Algorithms-8A2BE2?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Mamba](https://img.shields.io/badge/Mamba_SSM-00C2D4?style=flat-square)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-**Tools**
+- Multi-agent swarm field intelligence
+- Neurosymbolic ethics governance layer
+- Real-time drone + robotics coordination
+- Verifiable conservation on-chain
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Stack
 
 <div align="center">
 
-![Warren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waren23greg-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waren23greg-stack&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Now
+## 📊 Stats
 
-- 🔭 Expanding MISTCODER to CI/CD integration
-- 🌱 Building EDEN Phase V — multi-agent field deployment
-- 🤝 Open to research collaborations and grant partnerships
-- 📍 Based in Nairobi — building for Africa and the planet
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=waren23greg-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2D4&fire=00FFD1&currStreakLabel=00C2D4)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waren23greg-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c2d4&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 📌 Right Now
+
+- 🔭 Wiring MISTCODER into CI/CD — auto-block unsafe pushes
+- 🌱 EDEN Phase V — multi-agent field deployment
+- 🤝 Open to research collabs and grant partnerships
+- 📍 Nairobi — building for Africa and the planet
 
 ---
 
 <div align="center">
 
-*"I don't just study systems. I build ones that didn't exist."*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ffd1,50:00c2d4,100:0d1117&height=120&section=footer)
 
 </div>
