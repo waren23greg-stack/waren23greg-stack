@@ -31,44 +31,6 @@ warren = {
 
 ---
 
-## 🚀 Flagship Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔴 MISTCODER
-**Adversarial AI Code Analysis Engine**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AST](https://img.shields.io/badge/AST-FF4500?style=flat-square)
-![Graph](https://img.shields.io/badge/Kill_Chain_Graph-8A2BE2?style=flat-square)
-
-- **ORACLE** · **PHANTOM** · **COVENANT** agents
-- 65 vulns · 14 kill chains · **38ms**
-- Cryptographic tamper-proof audit trail
-- Zero external dependencies
-
-</td>
-<td width="50%">
-
-### 🌿 EDEN-BioGuard
-**Planetary-Scale Ecosystem AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Mamba](https://img.shields.io/badge/Mamba_SSM-00C2D4?style=flat-square)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-- Multi-agent swarm field intelligence
-- Neurosymbolic ethics governance layer
--  Architecture designed · research phase
-- Seeking grants and research partnerships
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Stack
 
@@ -96,15 +58,6 @@ warren = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waren23greg-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c2d4&text_color=c9d1d9)
 
 </div>
-
----
-
-## 📌 Right Now
-
-- 🔭 Wiring MISTCODER into CI/CD — auto-block unsafe pushes
-- 🌱 EDEN-BioGuard — research & architecture phase, seeking collaborators
-- 🤝 Open to research collabs and grant partnerships
-- 📍 Nairobi — building for Africa and the planet
 
 ---
 
